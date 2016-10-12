@@ -48,52 +48,52 @@ This haiku captures the moment when, after a low tide, the waves begin to encroa
 
 ### Summer Training – 4000 Lines of Training data
 
-beach houses of boards
-lovers cradled in the open
-behind the valley
+beach houses of boards  
+lovers cradled in the open  
+behind the valley  
 
-summer grasses watch
-lovers in the beach blowing
-sentinel peak stars
+summer grasses watch  
+lovers in the beach blowing  
+sentinel peak stars  
 
-Failed haiku example:
-rolling over the
-a spider playing on the
-without color of
+Failed haiku example:  
+rolling over the  
+a spider playing on the  
+without color of  
 
 ### Autumn Training – 2000 Lines of Training data
 
-sea fogs on the old
-a window slants from earth lines
-evening in darkness
+sea fogs on the old  
+a window slants from earth lines  
+evening in darkness  
 
-tombstones marking those
-ascending alone around
-falling dusty white
+tombstones marking those  
+ascending alone around  
+falling dusty white  
 
 This haiku may reference ghosts or spirits of the dead rising as the speaker walks through a graveyard. The dusty white could be ashes, snow, or the appearance of ghosts.
 
-termite tunnel curved
-autumn storms shaking moonlight
-white rim rocks a spot
+termite tunnel curved  
+autumn storms shaking moonlight  
+white rim rocks a spot  
 
-last swim in the north
-cactus spines above lava
-leaving in a spot
+last swim in the north  
+cactus spines above lava  
+leaving in a spot  
 
 ### Winter Training – 2000 Lines of Training data
 
-whale songs sung low clouds
-crystal veins of rain covers
-without a winter
+whale songs sung low clouds  
+crystal veins of rain covers  
+without a winter  
 
-thin dune grass weaving
-half frozen snow blowing far
-where whales deep a low
+thin dune grass weaving  
+half frozen snow blowing far  
+where whales deep a low  
 
-upward spiral wind
-whales following the ocean
-evening fog river
+upward spiral wind  
+whales following the ocean  
+evening fog river  
 
 ## Conclusion
 
